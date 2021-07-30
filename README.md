@@ -4,15 +4,15 @@ This project is based on various standard anonymization techniques used to anony
 
 Dataset Used: https://www.kaggle.com/mrferozi/loan-data-for-dummy-bank
 
-#Techniques Used:
+# Techniques Used:
 -K Anonymization
 -Data Perturbation
 -Data Swapping
 -Data Pseudonymization
 
 
-#Results
+# Results
 
-#1. K-Anonymization
+# 1. K-Anonymization
 
 
