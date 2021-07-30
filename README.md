@@ -1,10 +1,10 @@
-## Data-Anonymization
+# Data-Anonymization
 
 This project is based on various standard anonymization techniques used to anonymize data.
 
 Dataset Used: https://www.kaggle.com/mrferozi/loan-data-for-dummy-bank
 
-# Techniques Used:
+## Techniques Used:
 -K Anonymization
 
 -Data Perturbation
@@ -14,8 +14,8 @@ Dataset Used: https://www.kaggle.com/mrferozi/loan-data-for-dummy-bank
 -Data Pseudonymization
 
 
-# Results
+## Results
 
-# 1. K-Anonymization
+### 1. K-Anonymization
 
 
