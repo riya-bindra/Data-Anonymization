@@ -6,8 +6,11 @@ Dataset Used: https://www.kaggle.com/mrferozi/loan-data-for-dummy-bank
 
 # Techniques Used:
 -K Anonymization
+
 -Data Perturbation
+
 -Data Swapping
+
 -Data Pseudonymization
 
 
